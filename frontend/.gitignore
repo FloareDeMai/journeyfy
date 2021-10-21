@@ -24,4 +24,4 @@ yarn-error.log*
 
 
 #api-key
-/src/config.json
+/frontend/src/config.json
